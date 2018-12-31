@@ -1,0 +1,347 @@
+Art of the Exploit: An Introduction to Critical Engineering
+
+Julian Oliver: OK, so it’s been a long day for everyone. I’ve had about two and a half hours sleep coming in from Paris, and I’ve seen some amazing lectures, particularly one on Super Cemetery. which I actually had to leave in order to actually stop my brain turning in to a kind of fruit salad, so that I could give this talk. But I wanted to continue into the food salad status and had to retract.
+
+Julian: But anyway, I am going to be talking about mostly critical engineering. I’m going to give some sort of background to the movement if you like, it has certainly taken off in the last couple of years. And, I am going to probably use about a third of the lecture covering that substrate, that basis, and then I am going to show you a whole bunch of projects that I think represent critical engineering. Both as an ethos, if you like, but as a techno-political practice and very much as an engineering practice of its own.
+
+"Art of the Exploit," what do I mean by this? First of all I’ll just start talking about the art part. There was a really nice piece of neon art work or neon signage on the outside of the Altes Museum, in Berlin, for quite some years and it said, "All art has been contemporary." I think that’s a very important thing to remember when we are looking at the relevance of a given artistic or critical practice in relation to the now.
+
+You can, in fact, go right back through human history and find work that now, of course, would look traditionally old or antiquated, but at the time was the most rigorous expression available to artists at that time without having their heads cut off. One very famous work was by Bruegel the Elder -- this was painted in 1559 -- this was for many years, and still is now really, the closest depiction of what Medieval life was like.
+
+Life, at least in the 1500s. It depicts non-idealized representation of reality in those times. Naturally, drunkenness was the predominant activity, it looks like, at that time. Also, people engaging in the chaos of the market place. Playing with chickens, admittedly like, soccer balls. But yet, it was the general madness of that time and also a sense of revelry, a sense of decay, of suffering, is all represented in that singular image.
+
+I found this very fascinating in that singularity, if you like, of that image containing what anthropologist agrees is a very, very stark and coherent representation of life in that time would be extremely difficult to do today. For instance we are just supposed to focus on a couple of people walking inside the scene. You see this character here the one that have some sort of odd growth on his back of some sort, I don’t know whether he’s smuggling a small child or something like that, but this is a guy with a lantern and walking arm in arm down the street and they’re having an intimate conversation.
+
+Julian: What would be the equivalent to that today, in a European City? Maybe even in [inaudible 0:03:41] or somewhere in Midlands or Belgium. That kind of intimacy could be a guy on brick phone like this talking to his mate. The actual movement of people itself would need to be coordinated by a system of signalling - an infrastructure of signalling, if you like, in this case we have the classic, ’red light green light’, you know, ’walk don’t walk’.
+
+Julian: The monetary aspect itself, where people actually get cash. Maybe rather than trading a goat for a bag of rice or some other form of property at that time. The cash itself can actually be pulled literally out of a wall and that itself represents also an ability for us to coherently and singularly represent the flow of forces, if you like, the network of forces that comprises what we understand to be contemporary European life today.
+
+Julian: Then of course, behind that, the ATM machine behind that guild aftermath we have trading, we have the broader financial marketplace. Of course, now we understand that’s heavily impacted by high frequency trading which itself is built atop of a bedrock a substrate of algorithmic inputs and modifiers parametric and disruptive and other ways.
+
+Even the food itself, I mean,we were to represent that marketplace scene of people purchasing food from someone that’s sitting on a barrel. In order to do that now we would have to talk about all these weird things. These indoor representations of that market with these repeating products sitting in boxes with expiry dates, which, of course, for much of our food system, depends heavily on this thing called refrigeration.
+
+The Center for Disease Control in the United States has covered extensively the impacts on human life and contemporary human life of refrigeration ceasing to exist. Huge numbers of us would be dead in a couple of weeks due to food poisoning. Of course, we know the fridge is something like this. We’re heavily dependent on all sorts of forces and networks of forces as inputs in order to maintain, and even support, this thing we call everyday urban life.
+
+What we deal with now, as opposed to back in the time of Bruegel the Elder, is this increasing problem of the diametric of invisibility and visibility. We have this running problem of the inability to see the inner workings of our technologically engineered and mediated environment.
+
+Bruno Latour, a very smart man, said, "When a machine runs efficiently, when a matter of fact is settled, one need focus only on its inputs and outputs, and not on its internal complexity. Thus, paradoxically, the more science and technology succeed, the more opaque and obscure they become."
+
+The better running of a system, of a machine, the more it actually tends to become closed, to become opaque. Bruno was very polemic at the time for introducing, among many things, active network theory, etc., etc., but also, the idea of the black box. He really brought it into a lot of critical rhetoric at the time, looking at the problem of opacity, as regards systems.
+
+Here, we have an interesting representation of a black box. We have the input coming in on the left, and output over here, but in the middle, we have a hidden feedback control loop. That, for me, is a very interesting starting point for looking at some of the techno-political challenges of our time today. Of course, things become increasingly problematic when we start talking about this thing called infrastructure.
+
+We may look at the Internet, or representation of the Internet, as, of course, a network of networks. It wasn’t ever so much designed as so much emerged as an ongoing attempt for networks to connect to other networks. This tree of stars phenomenon we have with IBV Four and the clustering we have around that.
+
+To an end user -- I like the quote I heard earlier that the only people that refer to users are software designers and drug dealers -- but when we talk about users, we’re pushed into this field of surfaces. In themselves, much of the time, thankfully, Firefox is not playing that game of opacity, but we are pushed into this kind of a black box. Again, a kind of skimming over -- at least, in regards to the world wide web, not the Internet itself, but the web -- which provides, of course, many conveniences, but comes with a lack of visibility, a lack of transparency.
+
+Engineered infrastructure is a part of our environment. I grew up in New Zealand where I couldn’t see another house, surrounded by beautiful indigenous forests that had never been cut down. That’s where I grew up. Now I live in cities, and I’m regularly aware, still to this day, having spent ten years in Europe, of the presence of infrastructure. It always makes me nervous. It always has.
+
+The idea that we can actually have an urban environment and talk about it as a singular thing is problematic, not just for reasons of wanting to be able to depict contemporary life, but in order to be able to understand how that environment shapes us.
+
+On a small scale, we can look at an object like this, obviously the gramophone, which was the shit hot MP3 player of its time. I like to think of this actual object as very much a social object, very much an extroverted object, in its own sense. If you look at it, all of its inner functionality is expressed outwardly. We see the horn where the sound comes out, and if the record is actually playing, we can put our ear to that horn and we can confirm with our ear where the sound is being amplified and pushed out into the room, structured air pressure effectively.
+
+If we look at the crank we can see that this is our energy input. We can wind that crank and doing so see an immediate response through the platter itself spinning. If we look close enough on the record itself we can see a little needle bobbing up and down as it winds around the spiral of that record.
+
+The inner workings of this object they’re expressed outwardly. It’s a highly porous, translucent object in that regard. Compare it to the iPod Nano which is represented by a field of surfaces that presents itself as a skinned object of metaphors. Fast-forward and rewind.
+
+My girlfriend Christell told me how she was trying to explain to a young boy the phenomenon, the experience of rewind and fast-forward from her experience growing up with tapes, with cassettes.
+
+He could not fathom the concept. Had to actually pull out a cassette, put it into a machine, and show him what it was to fast-forward and rewind. Naturally now we skip.
+
+Already we start to see these metaphors themselves playing into the way that we use technology and also informing back into the design. If you take the [inaudible 0:11:47] of surfaces and you are really interested in understanding how it works and what it does, you have to open it up.
+
+Almost no one you or I know could tell you precisely exactly how an iPod Nano works. Most people wouldn’t be able to tell you where the DSP chip is. They wouldn’t tell the digital signal processor is on this board. They might not even recognize the power interface to the battery. They might not even recognize the lithium battery itself as being a power source.
+
+Impassivity is also expressed inwardly in this problem of ever retreating scale. Most of us at least, maybe not here at C3, most of us can say that we really don’t know the devices in our pockets. These things that we sleep right next to and walk around with and speak into.
+
+Here, for instance, is the wireless radio part of an iPhone 4.
+
+The right to deconstruct, to modify, and to ruin are rights that come with ownership. Or at least it should. That is something that is very important to me personally.
+
+The right to open those things that we own, even to study them is increasingly contested. Now there is a wall of lawyers between us and an object that we have in our pockets. To open that object, inspect it, and study it is already treading on legal territories.
+
+This is why we should start talking about lawyers in a new plural overload, to start referring to a murder of lawyers. You got a murder of crows, those beautiful black birds. A murder of lawyers is better.
+
+What we need is the right to read, write, and execute as regards to the objects that we own. This is something that needs to be pushed in a form of policy reform and that kind of thing. It needs to be actively upheld through the daily practice of studying that which we hold near to us, that infrastructure and that which we depend upon personally, most importantly.
+
+What’s at stake? Of course we have the "Yes We Scan" problem that charismatic man. This is my album by the way. I made it.
+
+We have this incredible stuff. For instance, this is what I read on CNET awhile ago saying Senate Bill rewrite, "Let’s Feds read your email without warrants."
+
+If you would have asked, this gets down to the problem of education, the problem very much of language.
+
+If you were to ask anybody that you know how the postcard that you sent them arrived in their mailbox, they would be able to give you a relatively coherent description of the process or the set of processes that resulted in that postcard arriving in a mailbox. We would talk about the van, post [inaudible 0:14:51] , the postcodes, the fact that there is this combination of street numbers and names. We call them addresses.
+
+If you would ask that same person how the email that you sent them arrived in their inbox very few people you know would do so without leaning on and relying on high cerebralism and extremely imaginative rich poetry in order to. They still wouldn’t even get close. This is precisely why this kind of thing can happen.
+
+Speaking of data retention and the like, if you were to tell all the people that all of the letters, the physical snail mail letters that they have been sending for years using the postal system, had been taken into a special room that no one can see inside. They have been steamed open carefully, the letters have been taken out, they have been copied, and then the sender and recipient on that envelope have been copied and put in a database.
+
+There would probably be a lot of old people in the streets burning cars in protest.
+
+Instead, we have this thing called data retention. We have another layer of impassivity where language and the technical complexity, the obstruction, is coming between us and a meaningful conversation about the techno-political challenges of the world that we live in.
+
+This is where assholes like this can have a free hand. They can come in and play poker with a flip of a sneaky dime, one-sided coin. We’re all sleeping next to the NSA as they stroke our hair while we sleep.
+
+Engineering is complex, its terms abstract. That is the other layer of passivity that I was referring to. For instance, what is a computer network? What is the Internet? Very few people can answer that question with any degree of realism.
+
+This is my definition of the Internet based on my questions going out to people in the feedback that I got back. It’s a deeply misunderstood technology.
+
+[applause]
+
+Julian: The smart-ass at the party whose brother is a brain surgeon will say it’s a series of truths, of course. Other people will refer to it as a magical, powerful reality. Of course, "The Matrix" is their first point of calling. They reach for that. It is the first thing.
+
+[applause]
+
+Julian: The Internet is somehow everywhere. It’s in the air itself. It’s a subatomic particle, the Internet. It’s this highly centralist model, a throbbing Dark Star, in this case, a purple Dark Star of sentience and awareness.
+
+You get humanity’s guise that the future of the Internet and the Internet belongs to the people kind of debates, talking about the Internet as an entity, a living thing and also talking about the Internet as something that truly belongs to the people. The lack of awareness as to the real infrastructure or reality of the Internet doesn’t afford them the insight that they need in order to inform those claims. The Internet is, in fact, as many of us here know, a highly privatized space, from the physical layer right up to even the application layer. Where am I on the Internet? Few people can say, "You’re here."
+
+[laughter]
+
+Julian: Very few people can actually do that. Geo-IP. In fact, where people’s data is, of course, in these things called data centers. As I’ve said in a few talks this last year, your drunken tweets and Facebook wall are underground somewhere, surrounded by machine guns, lawyers, and tax. That’s where it is, actually. You would find it very difficult to have the right of access to see that hard disc containing that file system that has that drunken tweet on it that you wish you’d never sent.
+
+Instead, we’re pushed this children’s book on representation of the technical rally, of the cloud, a very dangerous reduction, almost an absolute pathetic, patronizing reduction of that thing that we call the Internet. The cloud. There was a big survey done in the US, I wish I could cite it directly right now, as many of you remember, it was quite famous. A large percentage of Americans believe cloud computing was affected by bad weather.
+
+[laughter and applause]
+
+Julian: Now, there is a little something in it. If there’s a typhoon, and you’ve got your power grid knocked out, then yeah, the cloud’s down, but I don’t think they were reaching quite that far. We need to see the land through the clouds. This, for instance, is one of Apple’s data centers. This is where a lot of people’s iTunes profiles are stored. As I’ve also said in a couple of talks, it certainly doesn’t have the je ne sais quoi of an Apple product.
+
+[laughter]
+
+Julian: The way that the trees are lined up there, if you look really closely, there’s really high, heavy duty fences. There’s definitely four or five guys walking around with heavy machine guns. There’s probably two layers of passport checks. When we talk about ownership and the Internet and our political relationships with this thing called the Internet, we need to get down to the middle.
+
+Instead, we’re pushed this, again, field of surfaces, the iPod Nano effect. [inaudible 0:20:36] this ideology of seamlessness, this expectation that things should always be seamless. In fact, I like to get back, at least in my practice and that of my colleagues, this thing called seamfulness, or bringing the edges into the picture.
+
+What’s the time now, actually? How much have I got? Half an hour?
+
+Man 1: About half an hour, yeah.
+
+Julian: Cool, great. The submarine cable map is, for me, is an excellent example of the kinds of initiatives that -- admittedly, it was intended for the investor market, for people to invest in these things called submarine cables, but it’s had a really interesting spin-off effect in the critical community, talking about the problems of talking about the Internet as a thing that belongs to the people.
+
+When you look at the submarine cable map at submarinecablemap.com, you can click on the cables that connect countries and, in fact, envelope and wrap around countries, and see the owners. You find very quickly that when you’re clicking on these submarine cables, that very few of them have public ownership of any sort, even as a share. There’s hardly any government ownership of these cables, they’re entirely privatized.
+
+Now, as we’ve seen with the GCHQ and the NSA and, of course, black boxing and tapping these submarine cables, that right of access is, effectively, a financial transaction. There isn’t the public ownership in order to represent the rights we expect on this thing called the Internet, on even the physical layer.
+
+Critical engineering is really getting away from this definition of engineering, "the practical application of science to commerce and industry," and thinking about how we can forget about the utility and forget about industry and application to industry, forget about the economics of it all, and look at how can we use this thing, this collection of languages and concepts around engineering, the different disciplines of engineering, how can we use them to open up this dialogue about this infrastructure that we depend upon.
+
+Critical engineering is a frame for applied research and development that positions engineering rather than outer design primary within the creative and critical process. It’s about turning engineer from being a discipline known to the -- these cliches are really boring, but -- the sandal-wearing Brian’s of the world or something like this, and actually saying that now is the time that we all need to develop a basic vocabularic interface to this thing called engineering, such that we can meaningfully describe, and therefore critically engage, the world that we live in.
+
+Critical engineering manifesto was written in 2011 by this guy, this guy, and myself. It was quickly translated into 14 languages. It can now be found in labs all around the world, several hack labs, mecha spaces and things. It’s made its way into university programs. It’s now part of curricular, even recently at MIT, thanks to Golan Levin. It turns out that we did hit a bit of a nerve, positively.
+
+Critical engineering seeks to answer questions surrounding influence and control in a world of integrated systems and closed, opaque technology. The first point in the manifesto is this -- "Critical engineering considers engineering to be the most transformative language of our time, shaping the way we move, communicate, and think. It’s thus the work of the critical engineer to study and exploit this language, exposing its influence."
+
+The first work I want to talk about, as regards representing this thing called critical engineering is, in fact, my favorite work from 2012. It’s by Gordan Savicic, one of the co-authors of the manifesto, you saw his face before, and Ben Seolin, a very talented Swede, who’s my studio partner in Berlin. [inaudible 0:24:48] was developed for a big exhibition we did in the House of Douceur and Sevelt in Berlin, that opened on the day of transmediala.
+
+We were given a nice, big room and were asked to come up with ten works for the exhibition. The one that Gordan and Ben came up with was very special indeed. Who here is familiar with Mac address’ link layer? Beacon frames? Just a quick... [typing]
+
+Here we have a whole bunch of different stations around us right now. Obviously we have these Mac addresses here, that represent as access points, basis IDs. We have pro requests over here. We have these things called beacons. These beacons are really at the management layer of wireless networks. That’s another representation of this.
+
+There’s a huge number of these beacons flying around the room right now. These are vital for the inner functioning of wireless networks at the link layer.
+
+As far as Packet Broker was concerned, they were really interested in the fact that there are these location services, what we call "fine grain location services" -- versus "coarse grain," like GPS -- that many of us are highly dependent upon on our so-called smart phones, or spying devices you can make calls on, as Jacob said a while ago. What they wanted to do was to show it was perfectly possible to intervene on that geolocation dependency.
+
+For instance, obviously we all knew about the carrier IQ scandal, where people were on their smart phones, inadvertently capturing beacons that were then being pushed back to the mother ship, and then being used to find fine grain location maps, if you like, built around access points all around the world. Now, when someone is dissatisfied with GPS, they can, of course, switch to these fine grain location services.
+
+They set up a tree of eight to eleven radios in the studio, which is in Nikon, Berlin, and then down at the Haus der Kulturen der Welt, which is right on the other side of town. They had the equivalent sister tree of these eight to eleven radios. Each one of these represents a different chunk of the eight to eleven spectra. We have a channel represented by each one of these antennae.
+
+They captured beacon frames at the studio, and then sent them over a tunnel to the House of Douceur and Sevelt, where they were launched back into the air. We had 2,000 come through the door of our exhibition in the House of Douceur and Sevelt. 2,000 people came in, just into our room alone.
+
+Huge numbers of them were walking out into the night around the House of Douceur and Sevelt with their phones glowing up on their faces, looking for hotels, bars, and restaurants that didn’t exist around House of Douceur and Sevelt. They existed in Nikon, around the studio. They’d entirely folded the map. People were genuinely confused. They’d say, "I swear it was here." You could see people walking out into this little forest opposite. Friends loyally following.
+
+[applause]
+
+Julian: This is, for me, very important, because it leverages the implicit trust that we place on technology, uses it as a vulnerable surface, intervenes on that, and throws the whole structure back in your face, like, "Look, you’re depending on something that, itself, puts you in a highly vulnerable and volatile position." It’s all about that belief.
+
+"Lolstika," a really neat piece made free recently by Dennis Paul -- he’s probably here, he’s probably the one clapping just then. Is that you, Dennis?
+
+[laughter]
+
+Julian: Don’t clap at your own stuff, man. Joking. It’s a really neat piece. It doesn’t need to be complex, a work of critical engineering. Here’s a good example. Lolstika.
+
+[laughter and applause]
+
+Julian: You get it? It’s cool. It’s really great. Of course, you plug that into the wall, a fuse blows, you take out -- effectively, a large scale version would do this. You can wear it as a necklace. I really like it as a poetic inversion. Just fold that back and create a loop, and then poof! Blown. Super.
+
+Here’s a piece made by me this year, with a lot of help from my girlfriend building the tank. It’s called "No Network." No Network is a GSM jammer in the form of a battle tank.
+
+[applause]
+
+Julian: It’s a little object that just plays with cyber warfare and this whole metaphor of cyber war. When you flip the switch, it knocks you off the network, for about a six meter radius around the object. People can experience, in a controlled environment, ideally, being off the grid, if you like, in that regard. This is something that is increasingly rare.
+
+I love going back to my home country New Zealand, just being at the family farm and not being able to receive calls, make the voice, sms, I’m really un-contactable because there’s simply no network. There in the sleuth house.
+
+What’s that?
+
+Man 1: [inaudible 0:31:02]
+
+Julian: That’s the next one. I really want to do that actually, make it remote control [inaudible 0:31:06] down street. Absolutely.
+
+[laughter]
+
+Julian: Yeah, just be a really bad neighbor.
+
+[laughter]
+
+Julian: File my German immigration. I need to see a little German side there.
+
+Transparency Grenade is a project that I made for the exhibition, Haus der Kulturen der Welt, that again looks at this metaphor cyber warfare and the cyber weapon and tries to create an iconic hand-held fully functional package that deals with some these questions that we’ve around opacity, data and transparency.
+
+Particularly in the government and corporate sector where we’re fully aware that these powerful entities are making decisions increasingly behind closed doors and I want to come up with a hand-held ionic solution to them, came up with this.
+
+It’s based on the Soviet F-1 hand grenade. It’s just about the same size. It’s got all lovely silver work made by very talented metal worker Sussane Stauch, who also lives in Berlin. It’s got a little microphone, quite a powerful microphone, a little -- a gumstix, a little tiny air in based board on the inside and a running debian on it. My operating system of choice, wherever possible, has a little LED Bar graph there.
+
+When you pull the pin on this, on the subject, when you pull the pin, it captures all of the wireless traffic it possibly can in its proximity and then tunnels it up to my server where a pilscript goes through and pulls out html, jpeg, gif, jpng, fragments and then does the TCP stream following and shows in real time on a map, what people are doing.
+
+So someone from [inaudible 0:32:59] be...
+
+[applause]
+
+Julian: Someone can be checking their email or something like and obviously we’ve not shown this in public, I’ve shown this in NEMO Museum in Amsterdam, huge museum in downtown Amsterdam and many other big places, showed at Pentagon, at Corcoran Gallery there and people had to be warned, while entering the room, be aware that you need to have your -- have you locked down, had to be secured and that itself the tare of the object representing itself as a violent weapon, gets people talking.
+
+So you see mother and daughter and grandpa having a chat about the phone and grenade. It’s just trying to work things out. Just trying to reduce that sharing, that unintended emission.
+
+Prism, the Beacon Frame, is a little project that Daniil Vasiliev and I again [inaudible 0:34:02] manifest that we put together in two days for Art-Hack-Day in Berlin. This is a very little project that is intended to...it’s a speculative proposal of what NSA Wireless Network Forensics Equipment may look like. But obviously with a joke of having a big prism in the middle of it and when this thing runs, I’ll show you a video in a second.
+
+The Prism spins when someone is merely in the room and there is a network that they’re associating with and when the ask for a DCP list, they ask for a list on the network, ask for an IP that beep that goes out that we capture it and we show inside the prism, the host name of the device and if it’s iPhone, it’s almost over, It’s Sarah’s iPhone, Tom’s iPhone, Tim’s iPhone and then underneath the MAC address.
+
+This looks like this, hopefully we got some audio, Prism, it is here.
+
+[background audio]
+
+Julian: [inaudible 0:36:06] iPhone. Look it’s there. It’s Angela Merkel’s iPhone. What the hell is she doing there?
+
+[background audio]
+
+[applause]
+
+Julian: This is just again one of the things about working in a free software environment from a credit perspective. You can just cobble stuff together. What Banks, Daniil, [inaudible 0:36:44] and I do, all the time, we’re just glowering over with shell scripts. It’s fantastic. It’s [inaudible 0:36:51] and piping and Unix pipes. You can really rapidly prototype in this context. I would never ever dream of working outside of this domain. You can really get good work down fast.
+
+Again it’s a two day project at the Transmediale, next one in 2014, we’re going to have a sinister version of that project.
+
+[inaudible 0:37:13] is a very important developer artist engineer in this scene. He made a work that I think is very important. The Earth Bug Computer. He’s very really interested in the fact that our hardware is sort of detachedly, conceptually, in a mind from the earth in which those minerals are in fact found. Much of what we actually have in our pockets comes from a vast diverse ray of geographical locations and there is a huge number of different hands,minds and process, involved in producing that thing that we [inaudible 0:37:57] borders or something like that.
+
+He made a computer, Earth Bug Computer. This machine only boots if you actually stick it in the ground. Yes, it’s a beautiful project.
+
+You stick it in the ground and actually uses the very finer electricity running through the soil of the earth itself as a programming interface, that programs directly the computer and affects directly it’s run time function.
+
+You stick it to the ground. Here’s one here, that’s stuck in the ground, over here. This is a very power deck, philosophical representation of I think of another way of approaching critical engineering. Imagine if, for instance, the phone in your pocket, needed contact with the ground from where it actually came, arguably in order to function.
+
+I’m not going to talk about Border Bumping, because I’m out of time I think. I’ve been doing a lot of work in [inaudible 0:38:56] research and I’m very focused on cellular network infrastructure at the moment. But just very briefly, regarding infrastructure, hidden infrastructure; opacity takes other forms, this removal from view of the engineered reality of the world that we live in particularly in the form of these things called stealth towers, there is a bizarre design practice of disguising stealth towers as other things.
+
+Almost always bad, this one here is a stealth cell tower badly disguised as a tree and a play school, [inaudible 0:39:32] in England, Zenaka put together by Chris Pension, who went through countless examples of stealth cell towers that people have found and once that I myself have found and put in to some PDFs for me, for my research.
+
+What we see here is a growing community of radio enthusiastic, going round and finding these things. This one, disguised as a street lamp and it was only found, I was told it was only found because people in this actually horribly gloomy part of England were trying to walk home to their houses, obviously in the world’s worst weather and there was a street lamp that never functioned ever.
+
+[laughter]
+
+Julian: All they had to do was to apply power, put a boben and apply power and no one would have investigated what this thing was and found out that it was actually cell tower. This is the best one of all.
+
+[laughter]
+
+Julian: Some really poor sod had the job of trying to disguise cell towers as bricks and so they obviously went out and took a ladder and took a photograph of those bricks and loyally went down to the print shop and printed out some vinyl on to his [inaudible 0:40:53] but he didn’t use the resistance of his [inaudible 0:40:56] . As time goes on, the disguise effect, shall we say sort of [inaudible 0:41:03] waives off and they become more and more visible.
+
+This is an example of the corporate level and the physical infrastructure board, individuals actually working to ensure that you’re not aware there’s a stealth cell tower growing up next to your kindergarten. It can go up something like this because people don’t like that idea.
+
+I’m going talk about, finally, trusted engineering. I’m going to conclude here with a project code I’m used to it, that was made by Daniil Vasiliev and myself in 2011. We were lucky enough to get the Golden Nica for this at the Electronica which is certainly a great honor and we’ll be showing this work around a lot.
+
+It comes in the form of a -- that’s one of the posters. It comes in the form of a small war board like a little niche decker kind of thing. Plug it into the wall, it attacks the local wireless network just using, in the first version, [inaudible 0:42:10] . Local wireless network routs all of the traffic itself and allows the owner of that box to Madagascar, Kuala Lumpur and Auckland, New Zealand and manipulate the news read on that wireless network.
+
+So you plug it in, walk out and then jump on a plane, in the comfort of your two star hotel, you can then start manipulating the news that’s actually read on the network. So, you can tell people for instance, that, you could cancel flights at an airport, manipulate the sights there or you could people that in fact, on BBC an asteroid storm is imminently on way to earth solar system and now it’s time to crack up on the whisky.
+
+[applause]
+
+Julian: I’m just going to show you the video now and then I think we’ll call it a day and open up for questions. Here we go. Thanks guys.
+
+Question time.
+
+Man 1: Thank you Oliver very much. Yes any questions please? Yes, please line up in front of the microphones.
+
+OK. We will start, with questions from IRC.
+
+Man 2: The main question on IRC is where can I get one of these devices?
+
+[laughter]
+
+Julian: Well actually, we had it up and running for about two years and the page is currently broken because we lost the images but many people have made them, they have been useful all over the world.
+
+We are currently doing an upgrade for some new boards but if you go to newstweek.com/howto, you can see, it’s a little bit broken at the moment but in about a week or two we should have a whole new "how to" there for people to be able to make their own usings or modern hardware.
+
+At the moment it’s a couple of years old and we want to push out a new release. All the firm ware and stuff we have freely available of course, all the shell scripts themselves you can read and study.
+
+Man 1: Number two, please.
+
+Man 3: Hi there. Thanks for bridging the new media community with the hacker community. There isn’t enough of reap in my opinion but the main question that I have is basically how do you deal with the fact that a lot of art, that all also bridges activism to a certain degree anyway often ends up like as a gesture in a gallery.
+
+You showed us a lot of work that is exhibited at Transmediale, etc. but how did you actually bring it into the practice, how do you see it deployed in the world, how is that not just a gesture?
+
+John: This is very important. It’s important to break away from the black box of I-word itself. You can argue for many people. [inaudible 0:45:19] may have some contact with the kinds of conversations around as a -- you can argue [inaudible 0:45:29] filling a prophecy much of the time especially as regards the market now. It’s just very close.
+
+The way we do it is one thing, we show the works, we do it in big public museums. Secondly we build workshops around the projects that are for general public and we’ve been very lucky to work with organizations all over the world. Cultural organizations that bring general public in, they have zero school base. They get up and go but then we take them through to having real contact with some of these ideas through the actual engineering through the material itself. We do lot of that.
+
+The other thing to do is to upload "How to" so other people can make their own and freak their friends and family out and this definitely what happened with Newstweek. Many people making these little war plugs. It ended up pissing people around the world.
+
+Man 3: Thanks.
+
+Man 1: Please address the question from Number four.
+
+Man 4: Have you ever thought of applying those newstweeks to cars, taxis, things like that? So you only get a distraction for a moment. I have my news site and I read something and i click reload, maybe go back to an article and it’s different. It’s a little bit static, the way you do with the war plugs and I think the distraction would be even greater if things moves, just put a solar cell on it or maybe mount it on a taxi or something. I don’t know.
+
+Julian: Yeah. Most people when they’re reading in a taxi, they’re going through the 3G, 4G, network. So it’s a totally different...
+
+Man 4: Sorry. I’m not talking about the taxi, the guys in the taxi but the dense populated areas, you could use taxis because they have, yeah, they have a lot of pecans around there. So, from networks, from the houses...
+
+Julian: Yeah, sure. Suppose if you could change the network to [inaudible 0:47:43] fast enough, you could use something like [inaudible 0:47:46] be too slow and unreliable. You need to do these. But yes, that’s an interesting idea. Maybe trams would be good because that sort of space would be enough. You’ve to go around and really work with an whole bunch of open wireless networks.
+
+Many cities have open access points that opens up the territorial lot and so you’re getting out in the street is maybe more interesting direction, sure, good.
+
+We might have for about three more questions.
+
+Man 5: I have heard about newstweek but I didn’t know that you were the guy behind it.
+
+Julian: One of two.
+
+Man 5: Are there any other project? Did recently...
+
+Julian: Yeah. I’m really focused on GSM [inaudible 0:48:37] structure at the moment. But I can’t really talk about that. I need to talk about my lawyer about; he’s one of the good ones, what I can, can’t do and how I represent it. But Daniil and I are working hard on some upcoming intervention in Berlin that we’re going to test out in Transmediale and then take it to the next level after that.
+
+Yeah, lots of stuff really. I’m also interested very much in looking at more rapid prototyping low text solutions bit like the niche decker. You’ve got projects like this that can; you can drive the point home with a bang, need to go quite so hard at a time but I guess, you can follow what we’re doing online.
+
+[crosstalk]
+
+Man 5: On you website, you’ll keep it up to date?
+
+Julian: Yeah, for sure. I’ll be pushing some stuff there. Sure, thanks.
+
+Man 1: One more question from IRC.
+
+Man 6: Some people are interested in the firm, in the source for the transparency grenade which doesn’t seem to be on the website.
+
+Julian: The transparency grenade itself is extremely simple. It’s on that level. It’s TCP Dump capturing with, running debian on a Overo COM from gumstix and TCP Dump line with a running line of zero. It’s just capturing everything it possibly can and then it tunnels it over VPN to my server.
+
+The interesting stuff that I’m working on publishing at the moment is really on the server side of Pil. That’s the stuff that’s interesting, that does the TCP stream following and format [inaudible 0:50:28] interest and useful way.
+
+On the grenade, it’s really just case of few shell scripts that work meaningfully with a target network. For instance, you might want a supply key or if it’s a open network, we need to have a course and then it just a few [inaudible 0:50:46] tools, nothing too exciting.
+
+I will publish it all, I promise.
+
+Man 1: Number One, please.
+
+Man 5: The work you showed was very disruptive and distractive. Would you ever consider a more positive approach of engineering, positive examples of technology?
+
+Julian: I think lots of people are doing that already. I’m really interested in, and Daniil and Sue, in using productive healthy paranoia and fear is a good way to that.
+
+[applause]
+
+Julian: When you’re actually changing stuff on someone’s phone, because they don’t make a distinction between the network service they’re using all the time, but if you could change what happens in that little rectilinear bounds on their phone; which they’re inherently dependent upon that being a consistent relationship with a trusted provider. It could be a new source, or it could even just actually be your data plan.
+
+It could be the wireless network you’re using -- Starbucks. If you can manipulate that space and introduce fear and paranoia into that space, then already you’re beginning what I would describe as a "healthy, healing, positive process of change." Yeah?
+
+Man 1: One last question from my RC. Last question from my RC is are you worried about legal repercussion, in particular, from Newsweek?
+
+Julian: Yeffif we had a lot of people writing to us wanting to buy hundreds of these little boxes. We had very very bizarre one from a Chechen source that didn’t seem to realize that Danya himself is from St. Petersburg, which is a bit unusual.
+
+At the moment when we sell any of these things we are immediately in a very very different legal category and so we prefer to work in a research like territory, applied non-the-less. But we’re not in the market of actually pushing this stuff out into the world of product. That, then, would, according to my lawyer at least, put us in a very different legal domain. At the moment we’re quite OK. Again, disclaimers are really everything. If you write on a side, " This is intended to scare your sister, not people at airports," then what can a lawyer say?
+
+Man 1: Thank you very much for your talk.
+
+Julian: Pleasure.

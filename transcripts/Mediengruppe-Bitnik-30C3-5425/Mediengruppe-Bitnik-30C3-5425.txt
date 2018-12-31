@@ -1,0 +1,468 @@
+                Mediengruppe Bitnik: Hacking as Artistic Practice
+
+
+
+  Carmen:           Hello. Good evening. Thank you for having us here.
+
+                    It is a great pleasure to be here.
+
+                    We are Mediengruppe Bitnik. An artist group from Zurich.
+
+                    My name is Carmen. This is Domagoj. We would like to talk about our
+                    artistic work.
+
+                    Our work deals a lot with public spaces and the possibilities of
+                    publics. Our practice is very explorative and interventionist. You
+                    could say our main artistic practices is hacking. We take hacking
+                    from computer culture and transfer it to, or into our, art
+                    practice.
+
+                    Instead of trying to explain what we do in theory, we'll show you
+                    two of our works.
+
+                    The first is called "Opera Calling". It's an older work, it's from
+                    2007, and we produced it in collaboration with Cabaret Voltaire,
+                    which is a Dadaistic outspace in Zurich. It's an outspace which is
+                    in the house where Dada was founded a hundred years ago, in Zurich.
+
+                    We started out this work from a curiosity about opera in general,
+                    as an art form, but also the Zurich Opera House.
+
+                    Coming from digital culture and the collaborative practices of the
+                    Internet, opera is a very strange art form. It's very closed. You
+                    need to be dressed in a certain way to go there. You need to go
+                    there in person, there's no way of participating otherwise. The
+                    fees are quite high, so you need some money also to get in. This
+                    led to this project.
+
+  Domagoj:          To give you a little bit more of a local context. So, 85 percent of
+                    all the cultural budgets of the Canton of Zurich goes directly to
+                    this House. The remaining 15 percent are shared by all other art
+                    forms; dance, theater, museums, fine art spaces, whatever, 15
+                    percent vs. 85.
+
+                    At the beginning of the '80s in Zurich, youth riots started in
+                    front of the Opera House. There was youth demanding space for self-
+                    organized youth culture and a little bit of money. If you talk
+                    about opera in Zurich, everybody knows about those true
+                    backgrounds. They always resonate somehow.
+
+                    We asked ourselves, how can we open up this closed system of the
+                    Zurich Opera House? How can we become part of the opera audience
+                    without actually going there?
+
+  Carmen:           In our research we stumbled across this very beautiful image, it
+                    shows the forgotten use of the telephone from the outgoing
+                    nineteenth century. Right off when the telephone was invented,
+                    companies started to try to sell the media, but they couldn't say
+                    "buy yourself a phone and wait for a while and maybe somebody else
+                    will buy one in your neighborhood and then you can call each
+                    other."
+
+                    What they did was that they connected whatever local cultural
+                    institutions they had up to the telephone network. You had
+                    something called "Teatro-phone" or the "Opera-phone" in Paris. This
+                    was in place until the radio was invented.
+
+                    The telephone was used as a radio up until the invention of the
+                    radio. You see here on the right, the opera singer in front of her
+                    microphones on the stage, in the center you see the telephone
+                    switchboards.
+
+                    The family at home receiving this opera transmission in front of
+                    the telephone. The telephone doesn't have a receiver like we know
+                    it today, it's more gramophone loudspeaker, so it was really used
+                    as a sort of wall telephone.
+
+  Domagoj:          This was one of the first uses of live transmission of something,
+                    so it was super strange for people to experience something which is
+                    not happening in the same room.
+
+  Carmen:           We really liked this, and we asked ourselves what would happen if
+                    we would recreate the service as a public service nobody had asked
+                    for, a hundred years later.
+
+  Domagoj:          So instead of using these microphones, we decided to install box,
+                    like audio box, hidden microphones inside the opera house. We had
+                    an exhibition space in the café Voltaire which would get the live
+                    audio feed out of the opera, and there we had the telephone server
+                    running, connecting local households in Zurich, just like calling
+                    them.
+
+                    There was a random generator scanning through the telephone book of
+                    Zurich, randomly picking one number and saying "Hey, here's the
+                    live opera. If you want to hear it, just stay connected. Beep, and
+                    here it is!"
+
+  Carmen:           This is the auditorium of the Opera House. We quickly found out
+                    it's not a good place to place the box. You need to place them
+                    behind the stage so they stay there a lot longer.
+
+  Domagoj:          This is a screenshot from a newspaper on Swiss Television. In the
+                    picture you see the director of the Zürich Opera House showing one
+                    of those boxes they found live on telly. They were expecting the
+                    box to be James Bond-like devices. They were really surprised that
+                    we just used normal mobile phones that we could call in and they
+                    would pick up automatically and give us something like an audio
+                    feed.
+
+                    They were not happy about this project going on. We received a
+                    really harsh letter saying we should immediately remove all the
+                    boxes. They gave us two days, or they would call the military
+                    service to debug, or I don't know what the word is, to debug the
+                    Opera House and we would have to pay the fee.
+
+                    The letter also said they would sue us for Copyright Infringement,
+                    while at the same time the Opera Singers Union wanted to sue us for
+                    Transmission Fees -- normally you have to pay something if you
+                    broadcast -- and for libel, because of the bad audio quality.
+                    "People could think within this telephone transmission we sound so
+                    badly we can't sing". These were the effects.
+
+  Carmen:           This is the bug, what it looked like, when it was not being
+                    unwrapped by the director of the Opera House.
+
+  Domagoj:          Really cheaply made, like gaffer tape and an external microphone
+                    for a little bit better audio quality. It was taped so if you
+                    called the mobile phone, the display wouldn't leak up. We could
+                    produce it really fast.
+
+  Carmen:           This was the telephone machine at the exhibition space, in the
+                    Cabaret Voltaire. This was the only place where you could listen to
+                    the work without having to receive the call at home. So you could
+                    come here and listen in on the opera world that the service was
+                    running
+
+  Domagoj:          We produced a small film, it's one call showing a family receiving
+                    this strange opera telephone. It's Sunday afternoon in March 25th,
+                    we'll just listen in for a few minutes so you get a little bit of
+                    context of what it was about. It's a black screen with subtitles,
+                    goes for another four minutes, it's a beautiful piece.
+
+                    [applause]
+
+                    I am going to try to find out which opera is playing, a kid will
+                    join in, and they will explain what the opera is and blah blah
+                    blah. They're really excited, it goes for about eight minutes. It's
+                    on our website if you want to check it.
+
+  Carmen:           As you saw before, and the woman already explained, the media
+                    picked up heavily on the project locally. There was a big
+                    discussion about who owns publicly funded culture, who has access.
+                    It went back and forth for a while, also the legal battle between
+                    the Opera House and us, and the Cabaret Voltaire, because the media
+                    also made it into this David against Goliath story where the small,
+                    poor artist against this subsidized Opera House, they sort of
+                    accepted the work as an enhancement of their performance
+                    repertoire.
+
+                    It ran for three months, we transmitted every performance every
+                    night, from the Opera House. So we re-transmitted about 100 hours
+                    of Opera to about 100 hours of opera to around 4,500 households in
+                    Zurich.
+
+                    The second work we would like to talk about is a very recent work.
+                    It's called "Delivery for Mr. Assange." We produced it in January
+                    this year. About 11 months ago.
+
+                    The starting point for this work was our interest in the
+                    circumstances under which Julian Assange has been living at the
+                    Ecuadorian embassy in London since seeking asylum in June 2012.
+
+                    The embassy was surrounded by British police in August 2012, around
+                    the time the embassy announced they would grant Julian Assange
+                    asylum.
+
+                    For us, this very strange setting in the heart of London, in the
+                    very touristic area of Western London, became the sign of a global
+                    diplomatic crisis going on between the powers that be and Internet
+                    aficionados, transparency people, and Julian Assange.
+
+  Domagoj:          Normally you don't see this kind of conflict. It's something which
+                    shows itself in the media or Internet, but it manifests itself in
+                    this touristic area west of London. You pass all those people when
+                    you get nearby.
+
+                    There are many tourists, and suddenly you are in front of this
+                    police barrier. They have these strange police cars and vans with
+                    strange antennas. You really feel the conflict physically. I would
+                    say it's a war zone. You entered there and you feel it. It's a war
+                    zone.
+
+                    We asked ourselves, how can we intervene into this geopolitical
+                    situation where both sides are not really moving anymore.
+
+                    Six months, there's dozens of police outside, Assange is inside.
+                    [cough]
+
+                    We asked ourselves which communications channels into the
+                    Ecuadorian embassy are still open, physically or so. We knew we
+                    can't just go there and walk in by ourselves. We started to analyze
+                    the situation, and one question was, what happens if we introduce a
+                    bit of normality into these exceptional circumstances.
+
+                    We realized the postal system could be an interesting tool to test
+                    the situation. Sending a parcel is an everyday act. But
+                    what happens when you send a parcel to Julian Assange?
+
+  Carmen:           We built a parcel. We wanted better feedback than just going to the
+                    post office and posting it. We made a hole into the side of the
+                    parcel, and behind the hole is a camera which takes a picture every
+                    10-15 seconds and uploads the image to our server. We really had a
+                    parcel with a live tracking image system.
+
+                    We addressed it to Julian Assange at the Ecuadorian embassy in
+                    London. We basically wanted to see if the parcel would reach him.
+                    Would it be opened? Would it be removed from this postal system? In
+                    a sense it was like a real world ping, or a trace route, or a
+                    system test we called it inserted into a highly tense diplomatic
+                    crisis.
+
+  Domagoj:          We also published this picture showing the parcel, what it looks
+                    like when it's scanned by an X-Ray machine. We published it on the
+                    same website where the live feed was. We have this strange device
+                    here, something here, and a battery block on the side.
+
+  Carmen:           The outcome of the experiment was totally open, equally for us. As
+                    for anyone watching online, this is something we really like about
+                    art. It holds this opportunity for an intentional loss of control.
+                    You create an intervention and you just wait for some feedback. In
+                    this case it was waiting for images. This was the website where the
+                    images arrived every 10-15 seconds.
+
+  Domagoj:          This would reload.
+
+  Carmen:           You would have a reload here.
+
+  Domagoj:          Maybe we have to say there was also a GPS inside. We had the GPS
+                    position live and this image stream.
+
+  Carmen:           We tried to contextualize what was going on with these images. You
+                    could watch the live feed uncommented, or on the website you could
+                    see a stream of images we posted with comments to help figure out
+                    what was happening to the parcel. We also posted these images on
+                    Twitter.
+
+                    The first image shows Domagoj queuing up. You can see him in the
+                    mirror a bit there at a post office in East London. We only tested
+                    the British Royal Mail System, no borders.
+
+                    Queuing up. He's next. Approaching the counter. The parcel was
+                    accepted. This was the first fear we had, that the person at the
+                    post office would say, Oh sorry, this has a hole. I'm not going to
+                    accept this.
+
+  Domagoj:          Or maybe they would tape the hole or something. When it made it
+                    behind this glass thing and disappeared in this bag it was
+                    accepted.
+
+                    We received these red images for quite a long time. You would sit
+                    there and it was a really slow stream. You felt like 1995 maybe.
+                    Every 15 seconds, one picture. Sometimes they were broken so they
+                    were not good. Really, really slow.
+
+  Carmen:           The parcel just sat there for a while at this post office, we
+                    assume in this bag. Then it went dark. Of course we already got
+                    very nervous. Has somebody taped the camera?
+
+  Domagoj:          Did they find it out? We didn't know. Still black. One hour later,
+                    still black. Receiving one every 15 seconds.
+
+  Carmen:           Now the parcel was moving, or being moved, which we saw through the
+                    GPS locations.
+
+  Domagoj:          At 6:00, after three hours of black images, this image appeared. It
+                    seemed we just had no light. Everything was fine, we are alive.
+                    Let's go on.
+
+  Carmen:           We saw through the GPS locations that we had arrived at something
+                    called Mount Pleasant Mail Center in Central London.
+
+  Domagoj:          Suddenly, this view. For the first time, we left this box and we
+                    had this voyeuristic view of something you wouldn't see normally.
+                    So you post something, it disappears, and then it comes out again,
+                    somewhere else.
+
+  Carmen:           We also called this "unmanned photography". You always get very
+                    strange images, trolleys, feet.
+
+  Domagoj:          It's 9:00. People pushing trolleys, workers, still dark. Then we
+                    will disappear in a green bag.
+
+                    [laughter]
+
+  Domagoj:          It's red, green.
+
+  Carmen:           People online started participating also, trying to find out what
+                    was happening to the parcel. They helped us interpret studio
+                    locations, images. After four hours into the performance, our
+                    service went offline from the many requests. People started setting
+                    up mirrors, started writing scripts to get all the images from our
+                    server because they were properly afraid that they would go away or
+                    be lost.
+
+  Domagoj:          So at around 11:00, almost 12 hours since posting, we realized, we
+                    are on our way out of town. It was really strange because we are
+                    here, Julian Assange is here. The parcel just passed us and goes
+                    here. What the fuck? I'm like, where is it heading to? So it wasn't
+                    really sure, and it was moving fast. Black, black, black for hours,
+                    11:00, parcel's not moving anymore.
+
+  Carmen:           And here we arrived near Heathrow Airport at the Royal Jubilee Mail
+                    Center, that's 22 kilometers west of the city.
+
+  Domagoj:          Then again you have people working, trolleys, 2:00 in the morning,
+                    dominant color yellow, silent observer, trolley on the move again,
+                    and then black again. Black. So black since 1:30, it was almost
+                    5:00 in the morning.
+
+  Carmen:           Then moving back into the city at half past five, I think we're at
+                    South London Mail Center now. We'll see in a moment - yes. And the
+                    parcel was always taken out of the bag, which was really nice for
+                    our work.
+
+  Domagoj:          So we are at around 9:00, we were moving near central London, we
+                    were not sure but optimistic. Maybe a postman will take it and
+                    bring it to Assange. So at 10:00 we started to move around, really
+                    near the Ecuadorean Embassy.
+
+  Carmen:           We moved very slowly, so we thought maybe we're on the delivery
+                    route now, maybe it's the stop-and-go movement of a van. Always
+                    stopping to take out stuff. We could see other mail, but we could
+                    never see the van itself so we weren't really sure.
+
+  Domagoj:          Around this time, a BBC article went up and our server went down
+                    again, so it was like immediately a reaction on it. At 12:00, still
+                    moving near the Embassy, getting nearer. We were waiting for two
+                    hours, basically to be delivered.
+
+  Carmen:           People online were writing "hey bitnik, when will this parcel be
+                    delivered, because I really need to get some work done."
+
+                    [laughter]
+
+  Domagoj:          Or "hurry up Bitnik, no one is working at my office, parcel already
+                    ruined my morning. I've been watching this for 24 hours, I'm
+                    exhausted."
+
+  Carmen:           We were also exhausted.
+
+  Domagoj:          We didn't sleep the night before to get this thing done. So then...
+
+  Carmen:           We started seeing houses, so we were quite sure we were in the van.
+
+                    [crosstalk]
+
+  Domagoj:          The van...
+
+  Carmen:           Nearly empty .
+
+  Domagoj:          It's about us now, no?
+
+                    [laughter]
+
+  Carmen:           Then the other post comes and we were like, oh my god, we're being
+                    taken back to the delivery center.
+
+  Domagoj:          Then at around 2:00 we were seeing these strange images and I'm
+                    like, we are in front of the Ecuadorean Embassy. It's just about to
+                    pass this police border, but we didn't really know what was going
+                    on here. Something like a full delivery folder, a delivery list.
+                    Some things from inside maybe. We think we are in front of the
+                    Embassy now, image is still black. Waiting for delivery. Still
+                    nothing happening.
+
+                    [laughter]
+
+  Domagoj:          Diplomatic crisis. Or is the postman just taking lunch break? Four
+                    hours. Then, at 2:00, you don't see it really well here, it's about
+                    small changes in the image. Here we could see something like a
+                    floor. The floor is like...
+
+  Carmen:           A wooden floor.
+
+  Domagoj:          We are somewhere inside. We are not outside anymore, we are
+                    somewhere inside.
+
+  Carmen:           We assumed we had been delivered to the Embassy, and now got
+                    confirmation at ten to 3:00.
+
+  Domagoj:          So we are quickly writing on Twitter, "bitnik package has arrived,
+                    is now with Embassy security," and we're like - yeah we made it
+                    inside the Embassy, has delivered the parcel, WikiLeaks confirms
+                    parcel is still in darkness, we are waiting. Still nothing for 90
+                    minutes. The parcel has transmitted over 9000 images, most of them
+                    are black.
+
+  Carmen:           Somebody immediately wrote...
+
+  Domagoj:          "This is not true."
+
+  Carmen:           10,000 images and maybe 34 percent are black.
+
+                    [laughter]
+
+  Domagoj:          We're like, OK, you do the analysis for us. So it went on for some
+                    hours again, then at 4:30 we'd see strange images like this, are we
+                    on a sofa? Battery time would get critical when we had like 30
+                    hours, 26 hours passed, so it's about four or five hours left. We
+                    don't know. So then at 6:00, this pic. Everybody was like "wow", it
+                    looks really official, no? We got this tweet from a journalist from
+                    South America saying she knows this is inside the Embassy. She was
+                    there, and this is the waiting room.
+
+                    [applause]
+
+  Domagoj:          But it went dark again. We're like "oh fuck! Come on!" So somebody
+                    switched on the lights, and switched it off again. Our camera took
+                    two or three pictures and the suspense is mounting. Some movement.
+                    We saw strange colors some minutes later. We're like "what the fuck
+                    is happening now?" Red colors, stripes, something fluffy? What is
+                    it?
+
+                    [laughter]
+
+  Carmen:           We thought it was a dog, but it was a cat. Twitter was going, "it's
+                    a cat!"
+
+  Domagoj:          Is it a dog barking? "It's a cat! It's a cat!" but we just didn't
+                    see the messages because we were heavy uploading stuff like
+                    manually to Twitter, because our website was not accessible
+                    anymore. Or it might be a cat. The question - has Julian Assange
+                    taken over? Is he playing with us? Then we received this message.
+                    "Is this thing on?"
+
+                    [laughter]
+
+  Domagoj:          We are like, "Hello Julian, yes, we are here!" Back to black.
+                    Tiger.
+
+                    [laughter]
+
+  Domagoj:          More. Hello, world.
+
+                    [applause]
+
+  Domagoj:          So you know the term, love is contagious? Handwritten messages. It
+                    was a tour around Ecuador. Welcome to Ecuador.
+
+                    [laughter]
+
+  Domagoj:          Welcome to Ecuador.
+
+                    [applause]
+
+  Domagoj:          Nabeel Rajab, human rights activist in Bahrain, he is in prison.
+                    Free Anakata, one of the founders of The Pirate Bay, he was in
+                    prison. Free Jeremy Hammond, Free Rudolf Elmer, which is a Swiss
+                    whistleblower, Free [indecipherable 28:14] , Justice for Aaron
+                    Swartz. Transparency for the state, privacy for the rest of us.
+                    Postal art is contagious. Thank you, Ecuador. Thank you to all our
+                    supporters. Keep fighting, 2013 will win...
+
+                    [applause]
+
+
+
+Transcription by CastingWords
+ 
